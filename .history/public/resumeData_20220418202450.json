@@ -4,7 +4,7 @@
     "occupation": "Full Stack Web Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Colin! My passion is working both with startups and larger businesses to help build & scale their companies. During the pandemic I learned to code! I am extremely passionate about leanring and implementing new technologies and helping others achieve their coding gaols! Maybe some more stuff here about being a tutor or teacher, or more content to make this part more beefy and impressive looking.",
+    "bio": "Hi there! I am Colin! My passion is working both with startups and larger businesses to help build & scale their companies. During the pandemic I learned to code! I am extremely passionate about leanring and implementing new technologies and helping others achieve their coding gaols! Maybe some more stuff here about being a tutor or teacher, or more content to make this part more beefy",
     "contactmessage": "Get in touch with me!",
     "email": "colindevwork88@gmail.com",
     "phone": "5095316890",
@@ -51,15 +51,15 @@
         "school": "Papa-react Fullstack program",
         "degree": "React Engineer",
         "graduated": "Currently Attending",
-        "description": "Ready-2-code"
+        "description": "Readt-2-code"
       }
     ],
     "work": [
       {
-        "company": "Goodwoodaudio",
-        "title": "Arduino micro-controler programer/Low-voltage Electronics",
-        "years": "May 2020 - Present",
-        "description": "Assisting in design procces of building guitar junction-boxes. My roles incluedes coding for the microconrtolers we use to program the pcbs. More Stuff Here?"
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
       }
     ],
     "skills": [
@@ -68,8 +68,8 @@
         "level": "100%"
       },
       {
-        "name": "c++",
-        "level": "60%"
+        "name": "Python",
+        "level": "85%"
       },
       {
         "name": "Git",
@@ -104,24 +104,18 @@
         "category": "",
         "image": "amazon-thumb.jpeg",
         "url": "https://youtu.be/QaYts9sPmcY"
-      },
-      {
-        "title": "Spotify Clone youtube DEMO!",
-        "category": "",
-        "image": "spotify-thumbnail.png",
-        "url": "https://youtu.be/tzIdeV1f3jg"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": ""
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
       },
       {
-        "text": "",
-        "user": ""
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
       }
     ]
   }

@@ -51,7 +51,7 @@
         "school": "Papa-react Fullstack program",
         "degree": "React Engineer",
         "graduated": "Currently Attending",
-        "description": "Ready-2-code"
+        "description": "Readt-2-code"
       }
     ],
     "work": [
@@ -59,7 +59,7 @@
         "company": "Goodwoodaudio",
         "title": "Arduino micro-controler programer/Low-voltage Electronics",
         "years": "May 2020 - Present",
-        "description": "Assisting in design procces of building guitar junction-boxes. My roles incluedes coding for the microconrtolers we use to program the pcbs. More Stuff Here?"
+        "description": "Assisting in design procces of building guitar"
       }
     ],
     "skills": [
@@ -116,12 +116,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": ""
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
       },
       {
-        "text": "",
-        "user": ""
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
       }
     ]
   }
