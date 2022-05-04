@@ -29,7 +29,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/colin-dale-715938238/",
+        "url": "",
         "className": "fa fa-linkedin"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/dcolind",
+        "url": "https://github.com/dcolin",
         "className": "fa fa-github"
       }
     ]

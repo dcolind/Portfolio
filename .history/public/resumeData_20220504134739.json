@@ -4,42 +4,42 @@
     "occupation": "Full Stack Web Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi there, I am Colin! My passion is working both with startups and larger businesses to help build & scale their companies. At the beginning of the pandemic, I started using Reactjs to build fully functional responsive web applications. I love learning and implementing new technologies that help me grow my skill set as a Developer. Currently I am a success caoch for Papa Fam where I help students learn to code using Reactjs along with some of my favorite technologies.",
+    "bio": "Hi there! I am Colin! My passion is working both with startups and larger businesses to help build & scale their companies. At the begining of the pandemic i started using Reactjs to build  I am extremely passionate about leanring and implementing new technologies and helping others achieve their coding gaols! Maybe some more stuff here about being a tutor or teacher, or more content to make this part more beefy and impressive looking.",
     "contactmessage": "Get in touch with me!",
     "email": "colindevwork88@gmail.com",
     "phone": "5095316890",
     "address": {
-      "street": "1117 S Pillar Rock Dr. ",
-      "city": "Spokane",
+      "street": "1117 S Pillar Rock dr ",
+      "city": "Spokane,",
       "state": "WA",
       "zip": "99224"
     },
-    "website": "",
-    "resumedownload": "",
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UC1qu3LCH7xVqwBaCFTaO51Q",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/colin.m.dale",
+        "url": "https://www.facebook.com/sonny.sangha.3",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/colin-dale-715938238/",
+        "url": "https://www.linkedin.com/in/saajansangha",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/collieodale/",
+        "url": "https://www.instagram.com/ssssangha/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/dcolind",
+        "url": "https://github.com/PapaReact",
         "className": "fa fa-github"
       }
     ]
@@ -50,19 +50,17 @@
       {
         "school": "Papa-react Fullstack program",
         "degree": "React Engineer",
-        "graduated": "2022",
-        "description": ""
+        "graduated": "Currently Attending",
+        "description": "Ready-2-code"
       }
-   
     ],
     "work": [
       {
         "company": "Goodwoodaudio",
-        "title": "Arduino(CPP) micro-controller programmer/Low-voltage Electronics",
-        "years": "Dec 2021 - Present",
-        "description": "Assisting in design process of building guitar junction-boxes. My role includes programming microcontrollers for the junction's pcbs, building cables and fulfilling online orders."
+        "title": "Arduino micro-controler programer/Low-voltage Electronics",
+        "years": "May 2020 - Present",
+        "description": "Assisting in design procces of building guitar junction-boxes. My roles incluedes coding for the microconrtolers we use to program the pcbs. More Stuff Here?"
       }
-      
     ],
     "skills": [
       {
@@ -89,14 +87,24 @@
   },
   "portfolio": {
     "projects": [
-      
+      {
+        "title": "Medium Clone (React JS)",
+        "category": "",
+        "image": "medium-thumb.png",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
       {
         "title": "Hulu Clone (React JS)",
         "category": "",
         "image": "hulu-thumb.jpeg",
-        "url": "https://vercel.com/dcolind/hulu-clone"
+        "url": "https://youtu.be/b7nrXjS6Dqs"
       },
-     
+      {
+        "title": "Amazon Clone",
+        "category": "",
+        "image": "amazon-thumb.jpeg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
       {
         "title": "Spotify Clone youtube DEMO!",
         "category": "",
@@ -108,12 +116,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Colin was able to deliver way ahead of schedule and ended up saving us money. Definitley would recomend his outfit to small businesses looking to level-up their online presence and sales.",
-        "user": " Todd Billow. Former owner of Foxpedal"
+        "text": "",
+        "user": ""
       },
       {
-        "text": "I have been learning Reactjs as a student of Papa Fam and Colin has been a huge part of my learning to code.",
-        "user": "Brian Artea. Member at Papa Fam"
+        "text": "",
+        "user": ""
       }
     ]
   }

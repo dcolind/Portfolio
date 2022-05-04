@@ -9,8 +9,8 @@
     "email": "colindevwork88@gmail.com",
     "phone": "5095316890",
     "address": {
-      "street": "1117 S Pillar Rock Dr. ",
-      "city": "Spokane",
+      "street": "1117 S Pillar Rock dr ",
+      "city": "Spokane,",
       "state": "WA",
       "zip": "99224"
     },
@@ -19,27 +19,27 @@
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UC1qu3LCH7xVqwBaCFTaO51Q",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/colin.m.dale",
+        "url": "https://www.facebook.com/sonny.sangha.3",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/colin-dale-715938238/",
+        "url": "https://www.linkedin.com/in/saajansangha",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/collieodale/",
+        "url": "https://www.instagram.com/ssssangha/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/dcolind",
+        "url": "https://github.com/PapaReact",
         "className": "fa fa-github"
       }
     ]
@@ -60,7 +60,7 @@
         "company": "Goodwoodaudio",
         "title": "Arduino(CPP) micro-controller programmer/Low-voltage Electronics",
         "years": "Dec 2021 - Present",
-        "description": "Assisting in design process of building guitar junction-boxes. My role includes programming microcontrollers for the junction's pcbs, building cables and fulfilling online orders."
+        "description": "Assisting in design process of building guitar junction-boxes. My role includes programming microcontrollers for the junction's pcbs."
       }
       
     ],
@@ -108,12 +108,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Colin was able to deliver way ahead of schedule and ended up saving us money. Definitley would recomend his outfit to small businesses looking to level-up their online presence and sales.",
+        "text": "Colin was able to delivery way ahead of scheduale and actually ended up saving us some money. Definatley recomend his outfit to small businesses looking to level up there online pressence/sales.",
         "user": " Todd Billow. Former owner of Foxpedal"
       },
       {
-        "text": "I have been learning Reactjs as a student of Papa Fam and Colin has been a huge part of my learning to code.",
-        "user": "Brian Artea. Member at Papa Fam"
+        "text": "I have been leanring React as a student of Papafam and Colin has been a hug part of my learning to code.",
+        "user": "Brian Artea"
       }
     ]
   }
