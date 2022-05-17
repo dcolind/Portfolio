@@ -109,11 +109,12 @@
     "testimonials": [
       {
         "text": "Colin was able to deliver way ahead of schedule and ended up saving us money. Definitley would recomend his outfit to small businesses looking to level-up their online presence and sales.",
-        "user": " Todd Willow. Former owner of Foxpedal"
+        "user": " Todd Willis. Former owner of Foxpedal"
       },
       {
-        "text": "I have been learning Reactjs as a student and Colin has been a huge part of my learning to code.",
-        "user": "Brian Jacobs"}
+        "text": "I have been learning Reactjs as a student of Papa Fam and Colin has been a huge part of my learning to code.",
+        "user": "Brian Artea. Member at Papa Fam"
+      }
     ]
   }
 }
