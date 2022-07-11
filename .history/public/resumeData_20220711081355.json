@@ -70,16 +70,16 @@
         "level": "100%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
         "name": "c++",
         "level": "60%"
       },
       {
         "name": "Git",
         "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
       },
       {
         "name": "Web Development",
@@ -109,11 +109,11 @@
     "testimonials": [
       {
         "text": "Colin was able to deliver way ahead of schedule and ended up saving us money. Definitley would recomend his outfit to small businesses looking to level-up their online presence and sales.",
-        "user": " Todd Willows"
+        "user": " Todd Willow"
       },
       {
-        "text": "With little funding and a big dream, Colin was able to develop a system that met our sales needs and we will continue to use web marketing to grow our companies. ",
-        "user": "Ray Jacobsen"}
+        "text": "",
+        "user": " Jacobs"}
     ]
   }
 }

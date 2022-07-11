@@ -70,16 +70,16 @@
         "level": "100%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
         "name": "c++",
         "level": "60%"
       },
       {
         "name": "Git",
         "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
       },
       {
         "name": "Web Development",
