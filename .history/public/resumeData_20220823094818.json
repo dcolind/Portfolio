@@ -94,7 +94,7 @@
         "title": "Hulu Clone (React JS)",
         "category": "",
         "image": "hulu-thumb.jpeg",
-        "url": "https://hulu-clone-two-gamma.vercel.app/"
+        "url": "https://vercel.com/dcolind/hulu-clone"
       },
      
       {
@@ -116,13 +116,6 @@
         "category": "",
         "image": "air.png",
         "url": "https://airbnb-clone-iota-six.vercel.app/"
-      },
-
-      {
-        "title": "Apple Home Page Clone",
-        "category": "",
-        "image": "apple.png",
-        "url": "https://applehomepagefun.vercel.app/"
       },
 
       {

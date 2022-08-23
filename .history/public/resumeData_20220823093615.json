@@ -94,42 +94,21 @@
         "title": "Hulu Clone (React JS)",
         "category": "",
         "image": "hulu-thumb.jpeg",
-        "url": "https://hulu-clone-two-gamma.vercel.app/"
+        "url": "https://vercel.com/dcolind/hulu-clone"
       },
      
       {
-        "title": "Medium Clone",
+        "title": "Spotify Clone youtube DEMO!",
         "category": "",
-        "image": "medium.png",
-        "url": "https://medium-clone-seven-rho.vercel.app/"
+        "image": "spotify-thumbnail.png",
+        "url": "https://youtu.be/tzIdeV1f3jg"
       },
 
       {
         "title": "Covid Tracker",
         "category": "",
-        "image": "covthumb.png",
+        "image": "",
         "url": "https://cov-tracker-two.vercel.app/"
-      },
-
-      {
-        "title": "Airbnb Clone",
-        "category": "",
-        "image": "air.png",
-        "url": "https://airbnb-clone-iota-six.vercel.app/"
-      },
-
-      {
-        "title": "Apple Home Page Clone",
-        "category": "",
-        "image": "apple.png",
-        "url": "https://applehomepagefun.vercel.app/"
-      },
-
-      {
-        "title": "Web3 Messaging App",
-        "category": "",
-        "image": "meta.png",
-        "url": "https://w3-messaging-app.vercel.app/"
       }
     ]
   },
