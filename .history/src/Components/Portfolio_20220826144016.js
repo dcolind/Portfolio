@@ -7,11 +7,11 @@ const Portfolio = ({ data }) => {
       return (
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
-            <a href={projects.url} title={projects.title} target="_blank" rel="noreferrer">
+            <a href={projects.url} title={projects.title}>
               <img  alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5> {projects.title}</h5>
+                  <h5>{projects.title}</h5>
                   <p>{projects.category}</p>
                 </div>
               </div>

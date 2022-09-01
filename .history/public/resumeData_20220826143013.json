@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Colin",
+    "name": "Colin Dale",
     "occupation": "Full Stack Web Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi there, I am Colin! My passion is working with businesses to help build & scale their companies with the use of powefull Web Apps. At the beginning of 2018, I started using Reactjs to build fully functional responsive web applications. I love learning and implementing new technologies that help me grow my skill set as a Developer. Currently I am a Success Coach for Papa Fam where I help students learn to code using Reactjs along with some of my favorite technologies. I am currently looking for a job in Web Development, using my react skills and I would love to meet you!",
+    "bio": "Hi there, I am Colin! My passion is working both with startups and larger businesses to help build & scale their companies. At the beginning of the pandemic, I started using Reactjs to build fully functional responsive web applications. I love learning and implementing new technologies that help me grow my skill set as a Developer. Currently I am a success caoch for Papa Fam where I help students learn to code using Reactjs along with some of my favorite technologies.",
     "contactmessage": "Get in touch with me!",
     "email": "colindevwork88@gmail.com",
     "phone": "5095316890",
@@ -94,8 +94,8 @@
         "title": "Hulu Clone (React JS)",
         "category": "",
         "image": "hulu-thumb.jpeg",
-        "url": "https://hulu-clone-two-gamma.vercel.app/"
-        
+        "url": "https://hulu-clone-two-gamma.vercel.app/",
+        "href": "/"
       },
      
       {
@@ -131,12 +131,6 @@
         "category": "",
         "image": "meta.png",
         "url": "https://w3-messaging-app.vercel.app/"
-      },
-      {
-        "title": "WEB3 Lottery Dapp",
-        "category": "",
-        "image": "lot.png",
-        "url": "https://collie-lottery-dapp-i1pwwiknj-dcolind.vercel.app/"
       }
     ]
   },
