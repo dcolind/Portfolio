@@ -45,9 +45,7 @@ const About = ({ data }) => {
                 <span>{email}</span>
               </p>
             </div>
-            <div className="columns download">
-             
-            </div>
+            
           </div>
         </div>
       </div>

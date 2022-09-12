@@ -15,6 +15,7 @@
       "zip": "99224"
     },
     "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "youtube",
@@ -50,7 +51,7 @@
         "school": "FullStack Hero",
         "degree": "Online Course",
         "graduated": "No Degree",
-        "description": "I learned HTML, CSS, JavaScript, ReactJs, Typescript, and React Native programming"
+        "description": "I learned HTML, CSS, JavaScript, ReactJs"
       }
    
     ],
@@ -60,12 +61,6 @@
         "title": "Arduino(CPP) micro-controller programmer/Low-voltage Electronics",
         "years": "Dec 2021 - Present",
         "description": "Assisting in design process of building guitar junction-boxes. My role includes programming microcontrollers for the junction's pcbs, building cables and fulfilling online orders."
-      },
-      {
-        "company": "PapaFam",
-        "title": "Success Coach",
-        "years": "Jan 2022 - Present",
-        "description": "I help students with anything that is covered in a basic coding bootcamp one on one. I also do coaching calls with a large group, where I have covered various ReactJs and NextJs Topics."
       }
       
     ],
@@ -75,16 +70,8 @@
         "level": "100%"
       },
       {
-        "name": "NextJs",
-        "level": "100%"
-      },
-      {
         "name": "JavaScript",
-        "level": "90%"
-      },
-      {
-        "name": "TypeScript",
-        "level": "90%"
+        "level": "99%"
       },
       {
         "name": "c++",
@@ -126,6 +113,13 @@
       },
 
       {
+        "title": "Airbnb Clone",
+        "category": "",
+        "image": "air.png",
+        "url": "https://airbnb-clone-iota-six.vercel.app/"
+      },
+
+      {
         "title": "Apple Home Page Clone",
         "category": "",
         "image": "apple.png",
@@ -139,22 +133,22 @@
         "url": "https://w3-messaging-app.vercel.app/"
       },
       {
-        "title": "Web3 Lottery app",
+        "title": "WEB3 Lottery Dapp",
         "category": "",
         "image": "lot.png",
-        "url": "https://collie-lottery-dapp.vercel.app/"
+        "url": "https://collie-lottery-dapp-i1pwwiknj-dcolind.vercel.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": " "
+        "text": "Colin was able to deliver way ahead of schedule and ended up saving us money. Definitley would recomend his outfit to small businesses looking to level-up their online presence and sales.",
+        "user": " Todd Willows"
       },
       {
-        "text": "",
-        "user": ""}
+        "text": "With little funding and a big dream, Colin was able to develop a system that met our sales needs and we will continue to use web marketing to grow our companies. ",
+        "user": "Ray Jacobsen"}
     ]
   }
 }

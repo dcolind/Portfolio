@@ -15,6 +15,7 @@
       "zip": "99224"
     },
     "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "youtube",
@@ -142,19 +143,19 @@
         "title": "Web3 Lottery app",
         "category": "",
         "image": "lot.png",
-        "url": "https://collie-lottery-dapp.vercel.app/"
+        "url": "https://collie-lottery-dapp-i1pwwiknj-dcolind.vercel.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": " "
+        "text": "Colin was able to deliver way ahead of schedule and ended up saving us money. Definitley would recomend his outfit to small businesses looking to level-up their online presence and sales.",
+        "user": " Todd Willows"
       },
       {
-        "text": "",
-        "user": ""}
+        "text": "With little funding and a big dream, Colin was able to develop a system that met our sales needs and we will continue to use web marketing to grow our companies. ",
+        "user": "Ray Jacobsen"}
     ]
   }
 }
