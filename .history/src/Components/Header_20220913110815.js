@@ -66,7 +66,7 @@ const Header = ({ data }) => {
             Based in {city}. <span>{occupation}</span>. {description}.
           </h3>
           <hr />
-          <ul className="social"> {networks}</ul>
+          <ul className="social" >{networks}</ul>
         </div>
       </div>
 

@@ -66,12 +66,12 @@ const Header = ({ data }) => {
             Based in {city}. <span>{occupation}</span>. {description}.
           </h3>
           <hr />
-          <ul className="social"> {networks}</ul>
+          <ul className="social">{networks}</ul>
         </div>
       </div>
 
       <p className="scrolldown">
-        <a className="smoothscroll" href="#about" >
+        <a className="smoothscroll" href="#about">
           <i className="icon-down-circle"></i>
         </a>
       </p>

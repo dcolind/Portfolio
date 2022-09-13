@@ -645,7 +645,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #lessons {
-   background: #1F1F1F url(../images/lessons-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -665,9 +665,9 @@ call-to-action .button {
    letter-spacing: 3px;
    color: #fff;
 }
-#lessons h1 span { display: none; }
-#lessons .header-col { padding-top: 9px; }
-#lessons .header-col h1:before {
+# h1 span { display: none; }
+# .header-col { padding-top: 9px; }
+# .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f10d";
 	padding-right: 10px;
@@ -679,30 +679,30 @@ call-to-action .button {
 }
 
 /*	Blockquotes */
-#lessons blockquote {
+# blockquote {
    margin: 0 0px 30px 0px;
    padding-left: 0;
    position: relative;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
 }
-#lessons blockquote:before { content: none; }
-#lessons blockquote p {
+# blockquote:before { content: none; }
+# blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
    color: #fff
 }
-#lessons blockquote cite {
+# blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
    color: #fff;
 }
-#lessons blockquote cite:before { content: "\2014 \0020"; }
-#lessons blockquote cite a,
-#lessons blockquote cite a:visited { color: #8B9798; border: none }
+# blockquote cite:before { content: "\2014 \0020"; }
+# blockquote cite a,
+# blockquote cite a:visited { color: #8B9798; border: none }
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */

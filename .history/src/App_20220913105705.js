@@ -10,7 +10,7 @@ import Portfolio from "./Components/Portfolio";
 
 
 import "./App.css";
-
+import Lessons from "./Components/Lessons";
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});

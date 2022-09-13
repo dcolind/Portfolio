@@ -11,7 +11,6 @@ import Portfolio from "./Components/Portfolio";
 
 import "./App.css";
 
-
 const App = () => {
   const [resumeData, setResumeData] = useState({});
 
@@ -29,6 +28,7 @@ const App = () => {
       <About data={resumeData.main} />
       <Resume data={resumeData.resume} />
       <Portfolio data={resumeData.portfolio} />
+      <Le
       <Contact data={resumeData.main} />
       <Footer data={resumeData.main} />
     </div>

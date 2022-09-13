@@ -4,7 +4,7 @@
     "occupation": "Full Stack Web Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi there, I am Colin!  My passion is working with businesses to help build and scale their companies with the use of Web Apps.  At the beginning of 2018 I starting using ReactJS to build fully functional responsive web applications and since then I have built many projects that I am proud of! Be sure to check out my most recent build, Web3 Lottery App made with Next, TailwindCSS and ThirdWeb.  I am passionate about learning and implementing new technologies that help me grow my skill set as a Developer. My new found love is Next-App using Typescript and TailwindCSS to for styling.  Currently I am a Success Coach for Papa Fam, an online coding community where we build clones of existing apps like Facebook, Twitter, Medium and many more! Being a part of this amazing community has been essential to my coding journey. I help students learn to code and help answer any questions within the community.  It’s exciting to watch upcoming developers hone their craft through my coaching.  I am looking for a position in Web Development that will utilize my react skills and help move your business forward.  I would love to meet you!   Please contact me at the email address below or fill out my contact form at the bottom of the page.",
+    "bio": "Hi there, I am Colin!  My passion is working with businesses to help build and scale their companies with the use of Web Apps.  At the beginning of 2018 I starting using ReactJS to build fully functional responsive web applications and since then I have built many projects that I am proud of! Be sure to check out my most recent build, Web3 Lottery App made with Next, TailwindCSS and ThirdWeb.  I am passionate about learning and implementing new technologies that help me grow my skill set as a Developer. My new found love is Next-App using Typescript and TailwindCSS to for styling.  Currently I am a Success Coach for Papa Fam, an online coding community where we build clones of existing apps like Facebook, Twitter, Medium and many more! Being a part of this amazing community has been essential to my coding journey. I help students learn to code and help answer any questions within the community.  It’s exciting to watch upcoming developers hone their craft through my coaching.  I am looking for a position in Web Development that will utilize my react skills and help move your business forward.  I would love to meet you!   Please contact me at the phone numberemail address below.",
     "contactmessage": "Get in touch with me!",
     "email": "colindevwork88@gmail.com",
     "phone": "5095316890",
@@ -50,7 +50,7 @@
         "school": "FullStack Hero",
         "degree": "Online Course",
         "graduated": "No Degree",
-        "description": "I learned HTML, CSS, JavaScript, ReactJs, Typescript, and React Native programming."
+        "description": "I learned HTML, CSS, JavaScript, ReactJs, Typescript, and React Native programming"
       }
    
     ],
